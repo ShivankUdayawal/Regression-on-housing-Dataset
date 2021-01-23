@@ -1,15 +1,16 @@
 # Regression-on-housing-Dataset
-Performing Regression on Housing Dataset and Predicting the house Price.
+
+## Performing Regression on Housing Dataset and Predicting the house Price.
 
 * In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships between a dependent variable (often called the ‘outcome variable’) and one or more independent variables (often called ‘predictors’, ‘covariates’, or ‘features’).
  
- The terminology you will often listen related to regression analysis is:
+### The terminology you will often listen related to regression analysis is:
 
-### Dependent variable or target variable :  Variable to predict.
+* Dependent variable or target variable :  Variable to predict.
 
-### Independent variable or predictor variable :  Variables to estimate the dependent variable.
+* Independent variable or predictor variable :  Variables to estimate the dependent variable.
 
-### Outlier :  Observation that differs significantly from other observations. It should be avoided since it may hamper the result. 
+* Outlier :  Observation that differs significantly from other observations. It should be avoided since it may hamper the result. 
 
 
 
