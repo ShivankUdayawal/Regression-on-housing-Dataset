@@ -4,7 +4,7 @@
 
 * In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships between a dependent variable (often called the ‘outcome variable’) and one or more independent variables (often called ‘predictors’, ‘covariates’, or ‘features’).
  
-### The terminology you will often listen related to regression analysis is :
+### The terminology will often listen related to regression analysis is :
 
 * Dependent variable or target variable :  Variable to predict.
 
