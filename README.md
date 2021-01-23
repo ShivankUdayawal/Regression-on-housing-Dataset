@@ -4,7 +4,7 @@
 
 * In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships between a dependent variable (often called the ‘outcome variable’) and one or more independent variables (often called ‘predictors’, ‘covariates’, or ‘features’).
  
-### The terminology you will often listen related to regression analysis is:
+### The terminology you will often listen related to regression analysis is :
 
 * Dependent variable or target variable :  Variable to predict.
 
@@ -12,6 +12,12 @@
 
 * Outlier :  Observation that differs significantly from other observations. It should be avoided since it may hamper the result. 
 
+* Multicollinearity :  Situation in which two or more independent variables are highly linearly related.
+
+* Homoscedasticity or homogeneity of variance :  Situation in which the error term is the same across all values of the independent variables.
+
+
+Regression analysis is primarily used for two distinct purposes. First, it is widely used for prediction and forecasting, which overlaps with the field of machine learning. Second, it is also used to infer causal relationships between independent and dependent variables.
 
 
 ## Introduction
