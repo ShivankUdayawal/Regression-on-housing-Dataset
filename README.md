@@ -36,3 +36,8 @@ Regression analysis is primarily used for two distinct purposes. First, it is wi
  4.    Impute Missing Data and Clean Data
  5.    Feature Transformation/Engineering
  6.    Modeling and Predictions
+
+
+## Data Visualization
+
+![](https://github.com/ShivankUdayawal/Regression-on-housing-Dataset/blob/main/Data%20Visualization/Salesprice.png)
