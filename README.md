@@ -43,4 +43,19 @@ Regression analysis is primarily used for two distinct purposes. First, it is wi
 ![](https://github.com/ShivankUdayawal/Regression-on-housing-Dataset/blob/main/Data%20Visualization/Salesprice.png)
 
 
-![](
+![](https://github.com/ShivankUdayawal/Regression-on-housing-Dataset/blob/main/Data%20Visualization/slaespricevsgrlivarea.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-housing-Dataset/blob/main/Data%20Visualization/salepricevstotalbsmtprice.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-housing-Dataset/blob/main/Data%20Visualization/Salepricevsgaragearea.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-housing-Dataset/blob/main/Data%20Visualization/Salepricevasoverallqual.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-housing-Dataset/blob/main/Data%20Visualization/correlation.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-housing-Dataset/blob/main/Data%20Visualization/Actualvspredictions.png)
